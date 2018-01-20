@@ -1,2 +1,2 @@
 # Flugame
-Google Daydream game for cruzhacks 2018
+Google Daydream application for cruzhacks 2018
