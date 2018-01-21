@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/sh/Desktop/FluGame/FluGame/Temp/gradleOut/build/intermediates/res/merged/release/layout/ui_layer_with_portrait_support.xml",
+        "source": "/Users/sh/.android/build-cache/4da3daa577f96b4ec34c53dd062dc4292122a5f5/output/res/layout/ui_layer_with_portrait_support.xml"
+    },
+    {
+        "merged": "/Users/sh/Desktop/FluGame/FluGame/Temp/gradleOut/build/intermediates/res/merged/release/layout/back_button.xml",
+        "source": "/Users/sh/.android/build-cache/4da3daa577f96b4ec34c53dd062dc4292122a5f5/output/res/layout/back_button.xml"
+    },
+    {
+        "merged": "/Users/sh/Desktop/FluGame/FluGame/Temp/gradleOut/build/intermediates/res/merged/release/layout/transition_view.xml",
+        "source": "/Users/sh/.android/build-cache/4da3daa577f96b4ec34c53dd062dc4292122a5f5/output/res/layout/transition_view.xml"
+    },
+    {
+        "merged": "/Users/sh/Desktop/FluGame/FluGame/Temp/gradleOut/build/intermediates/res/merged/release/layout/ui_layer.xml",
+        "source": "/Users/sh/.android/build-cache/4da3daa577f96b4ec34c53dd062dc4292122a5f5/output/res/layout/ui_layer.xml"
+    },
+    {
+        "merged": "/Users/sh/Desktop/FluGame/FluGame/Temp/gradleOut/build/intermediates/res/merged/release/layout/settings_button.xml",
+        "source": "/Users/sh/.android/build-cache/4da3daa577f96b4ec34c53dd062dc4292122a5f5/output/res/layout/settings_button.xml"
+    }
+]

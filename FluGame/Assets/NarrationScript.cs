@@ -15,6 +15,7 @@ public class NarrationScript : MonoBehaviour {
 
 	public void StartNarration(){
 		narration = document.text.Split ('\n');
+		GetNextNarration ();
 	}
 
 	public void GetNextNarration(){

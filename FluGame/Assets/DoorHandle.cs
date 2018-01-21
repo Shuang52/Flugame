@@ -27,19 +27,21 @@ public class DoorHandle : MonoBehaviour, IPointerEnterHandler, IPointerExitHandl
 	}
 
 	public void OnPointerExit(PointerEventData event_data){
-		if(GameObject.Find("SceneControl").GetComponent<SceneControl>().narrationContinue == false)
-			text.SetActive (true);
+		if(scene_control.GetComponent<SceneControl>().narrationContinue == false)
+			text.SetActive (false);
 	}
 
 	public void OnPointerClick(PointerEventData event_data){
-		if (GameObject.Find ("SceneControl").GetComponent<SceneControl> ().narrationContinue == false) {		
-			if (this.gameObject.name == "Blue Door") 
+		if (scene_control.GetComponent<SceneControl> ().narrationContinue == false) {		
+			if (this.gameObject.name == "Blue Door")
 				GetVaccinated ();
+			else
+				NoVaccination ();
 		}
 	}
 
 	public void GetVaccinated(){
-		game_control.GetComponent<PlayerHealth> ().Vaccine ();
+		game_control.GetComponent<PlayerHealth> ().changeHealth (2);
 		game_control.GetComponent<GameControl> ().ChangeScene ();
 	}
 

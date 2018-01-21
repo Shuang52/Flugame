@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/sh/.android/build-cache/953940caafc7347d8aa7fe1033375f86b481f2db/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="36e70259b99d30e8bd89f2246a70d44a53cb309f">
+        <dex dex="/Users/sh/Desktop/FluGame/FluGame/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_ee07526d43da1edfc19e3851eedcbe8bfe6cbea3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sh/Desktop/FluGame/FluGame/Temp/gradleOut/libs/libprotobuf-java-nano.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fcd53f117550c58490f29c2e27afca051626260d">
+        <dex dex="/Users/sh/Desktop/FluGame/FluGame/Temp/gradleOut/build/intermediates/pre-dexed/release/libprotobuf-java-nano_0e7c17315218e519657131d37cd04924653ca9e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sh/.android/build-cache/9a5d013b40faa31b208ba75c9af366d6a7ac02c1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b434956ac497f594a9352f3aacdb5f048dc3ff39">
+        <dex dex="/Users/sh/Desktop/FluGame/FluGame/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_1bcf716ae4799caffb00ebf9864f45600d3b7a21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sh/.android/build-cache/7f619973c6f40754849d22ee7dee7abb7e8742f9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1b85ed744e864fccf4fe6ee1c5ef16ea5a1e2fe2">
+        <dex dex="/Users/sh/Desktop/FluGame/FluGame/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_de462ecec1181b3d49f0d1e2148c22f953bd07b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sh/.android/build-cache/75ed43670cf7419e373c24eb7aae207644425257/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="bd30ddc32173ef9dd69fe1895ce89831ef227596">
+        <dex dex="/Users/sh/Desktop/FluGame/FluGame/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_b85867882a62f5425ec1d7067bbb7bfb589183a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sh/.android/build-cache/4da3daa577f96b4ec34c53dd062dc4292122a5f5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a008a0b3cdc09c8b37fd39fa7e112b1c5b487d50">
+        <dex dex="/Users/sh/Desktop/FluGame/FluGame/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_f6c6006854540b90e552cd5a3ef909ef7054b4fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sh/Desktop/FluGame/FluGame/Temp/gradleOut/libs/unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="997bed8c5290bdbae5c8767ba09af501f19e1c08">
+        <dex dex="/Users/sh/Desktop/FluGame/FluGame/Temp/gradleOut/build/intermediates/pre-dexed/release/unity-classes_4d844cbe04a49bdb9890d82051c36224bcd962a1.jar" />
+    </item>
+
+</items>

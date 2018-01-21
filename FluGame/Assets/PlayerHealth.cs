@@ -16,8 +16,8 @@ public class PlayerHealth : MonoBehaviour {
 		
 	}
 
-	public void Vaccine(){
-		player_health += 5;
+	public void changeHealth(int number){
+		player_health += number;
 	}
 
 	public int health{

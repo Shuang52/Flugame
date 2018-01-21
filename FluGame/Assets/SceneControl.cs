@@ -8,12 +8,15 @@ public class SceneControl : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		
+		narration_continue = true;
+		GameObject.Find ("Narration").GetComponent<NarrationScript> ().StartNarration ();
 	}
 	
 	// Update is called once per frame
 	void Update () {
-		
+		if (GvrController.ClickButtonDown) {
+			GameObject.Find ("Narration").GetComponent<NarrationScript> ().GetNextNarration ();
+		}
 	}
 		
 	public bool narrationContinue{
